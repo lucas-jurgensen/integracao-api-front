@@ -1,2 +1,13 @@
+*.pyc
+__pycache__/
+*.pyo
+*.bak
+*.swp
+*.log
+
+.idea/
+.vscode/
+.env
+
 venv/
 database.db
